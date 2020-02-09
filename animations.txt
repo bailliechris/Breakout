@@ -1,0 +1,3 @@
+NUMBER OF ANIMATIONS 2
+    keyframe.txt
+    keybob.txt

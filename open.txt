@@ -1,0 +1,11 @@
+LENGTH OF SIDES 9.0
+MESH NUMBER 9
+    side.txt
+    ball.txt
+    paddle.txt
+    build1.txt
+    build2.txt
+    build3.txt
+    build4.txt
+    build5.txt
+    tile.txt

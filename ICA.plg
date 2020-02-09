@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ICA - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\CHRISB~1\LOCALS~1\Temp\RSP1B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/ICA.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Temp\PVS\VSWorkspace\Ball.cpp"
+"E:\Temp\PVS\VSWorkspace\BallMan.cpp"
+"E:\Temp\PVS\VSWorkspace\Base.cpp"
+"E:\Temp\PVS\VSWorkspace\main.cpp"
+"E:\Temp\PVS\VSWorkspace\Particle.cpp"
+"E:\Temp\PVS\VSWorkspace\ParticleManager.cpp"
+"E:\Temp\PVS\VSWorkspace\Tile.cpp"
+"E:\Temp\PVS\VSWorkspace\TileManager.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\CHRISB~1\LOCALS~1\Temp\RSP1B.tmp" 
+Creating temporary file "C:\DOCUME~1\CHRISB~1\LOCALS~1\Temp\RSP1C.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/ICA.pdb" /debug /machine:I386 /out:"Debug/ICA.exe" /pdbtype:sept 
+.\Debug\Ball.obj
+.\Debug\BallMan.obj
+.\Debug\Base.obj
+.\Debug\main.obj
+.\Debug\Particle.obj
+.\Debug\ParticleManager.obj
+.\Debug\Tile.obj
+.\Debug\TileManager.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\CHRISB~1\LOCALS~1\Temp\RSP1C.tmp"
+<h3>Output Window</h3>
+Compiling...
+Ball.cpp
+BallMan.cpp
+Base.cpp
+main.cpp
+Particle.cpp
+ParticleManager.cpp
+Tile.cpp
+TileManager.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+ICA.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
